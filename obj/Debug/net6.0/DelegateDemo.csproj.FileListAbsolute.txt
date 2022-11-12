@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.exe
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.deps.json
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.runtimeconfig.json
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.dll
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.pdb
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfo.cs
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.dll
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\refint\DelegateDemo.dll
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.pdb
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.genruntimeconfig.cache
+C:\LFP-195 Batch\Delegate&Event\DelegateDemo\DelegateDemo\obj\Debug\net6.0\ref\DelegateDemo.dll
